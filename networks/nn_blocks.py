@@ -10,6 +10,7 @@ import keras.backend as K
 from keras import regularizers
 
 # initializers and weight decay regularization are fixed
+print('hello SALEH')
 conv_init = 'he_normal'
 w_l2 = 1e-4
 
